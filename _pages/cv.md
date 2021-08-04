@@ -5,6 +5,4 @@ permalink: /_pages/
 author_profile: true
 ---
 
-[CV](_pages/abimaelhj_cv_aug2.pdf)
-
-(_pages/abimaelhj_cv_aug2.pdf)
+[CV](cv/_pages/abimaelhj_cv_aug2.pdf)
