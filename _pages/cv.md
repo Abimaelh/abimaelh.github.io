@@ -7,4 +7,4 @@ author_profile: true
 
 [CV](_pages/abimaelhj_cv_aug2.pdf)
 
-_pages/abimaelhj_cv_aug2.pdf
+(_pages/abimaelhj_cv_aug2.pdf)
