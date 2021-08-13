@@ -1,8 +1,6 @@
 ---
 layout: archive
 title: "CV"
-permalink: /_pages/
+permalink: /_cv/
 author_profile: true
 ---
-
-[CV](cv/_pages/abimaelhj_cv_aug2.pdf)
