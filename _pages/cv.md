@@ -14,8 +14,10 @@ Education
 
 Training
 ======
-Lab Manager, University of Pennsylvania, 2020--current
+Lab Manager, University of Pennsylvania, 2020 -- current
 
 Publications
 ======
-* {% for post in site.publications %} {% include archive-single-cv.html %} {% endfor %}
+  <ul>{% for post in site.publications reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
